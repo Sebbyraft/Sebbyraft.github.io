@@ -1,7 +1,9 @@
-theme: jekyll-theme-cayman
 title: Alessandro Sebastianelli
 description: Ph.D. student at University of Sannio and ESA under OSIP contract
+email: alessandro.sebastianelli@gmail.com
 show_downloads: false
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+theme: jekyll-theme-cayman
