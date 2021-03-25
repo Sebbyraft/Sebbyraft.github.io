@@ -1,5 +1,4 @@
-### [About me](#About-me) [|]() [Awards](awards.md) [|]() [Pubblications](pubblications.md) 
-
+### [About me](#About-me) [|]() [Awards](awards.md) [|]() [Pubblications](pubblications.md) [|]() [Teaching](teaching.md) 
 
 # About me
 <div>
