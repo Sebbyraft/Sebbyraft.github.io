@@ -3,7 +3,7 @@
 # Pubblications
 He has co-authored some papers to international conferences and to important journals for the sector of Remote Sensing. 
 
-<img align="center" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" style="padding: 0px 15px 15px 0px"/> [Google Scholar](https://scholar.google.com/citations?hl=it&user=WoTTS-UAAAAJ) <img align="center" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" style="padding: 0px 15px 15px 30px"/>[Research Gate](https://www.researchgate.net/profile/Alessandro-Sebastianelli) <img align="center"  width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" style="padding: 0px 15px 15px 30px"/>[Orcid](https://orcid.org/0000-0002-9252-907X)
+<img align="center" width="32px" src="imgs/googlescholar.svg" style="padding: 0px 15px 15px 0px"/> [Google Scholar](https://scholar.google.com/citations?hl=it&user=WoTTS-UAAAAJ) <img align="center" width="32px" src="imgs/researchgate.svg" style="padding: 0px 15px 15px 30px"/>[Research Gate](https://www.researchgate.net/profile/Alessandro-Sebastianelli) <img align="center"  width="32px" src="imgs/orcid.svg" style="padding: 0px 15px 15px 30px"/>[Orcid](https://orcid.org/0000-0002-9252-907X)
 
 He is also a co-Editor of a book entitled "Artificial Intelligence Applied to Satellite-based Remote Sensing Data for Earth Observation” available on [the IET](https://shop.theiet.org/artificial-intelligence-applied-to-satellite-based-remote-sensing-data-for-earth-observation).
 
