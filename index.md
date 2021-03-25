@@ -1,4 +1,4 @@
-[About me](#About-me) [Awards](awards.md) [Pubblications](#awards) 
+### [About me | ](#About-me) [Awards | ](awards.md) [Pubblications | ](#awards) 
 
 
 # About me
